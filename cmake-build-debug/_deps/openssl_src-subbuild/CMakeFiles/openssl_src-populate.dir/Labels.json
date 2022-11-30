@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/CMakeFiles/openssl_src-populate"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/CMakeFiles/openssl_src-populate.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/CMakeFiles/openssl_src-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openssl_src-populate"
+		],
+		"name" : "openssl_src-populate"
+	}
+}

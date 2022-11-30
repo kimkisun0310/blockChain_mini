@@ -1,0 +1,21 @@
+# ninja log v5
+0	208	6913346168319493	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-mkdir	d6e8c73d45b19d16
+0	208	6913346168319493	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-mkdir	d6e8c73d45b19d16
+1	108	6913350540537574	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-download	8d9c3faadcaae44f
+1	108	6913350540537574	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-download	8d9c3faadcaae44f
+109	181	6913350541285567	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-update	42cd7d36e5be3d29
+524	614	6913350545604026	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/CMakeFiles/openssl_src-populate-complete	9a449abcdcc49684
+109	181	6913350541285567	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-update	42cd7d36e5be3d29
+181	246	6913350541933834	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-patch	e3e78192318e0c4f
+181	246	6913350541933834	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-patch	e3e78192318e0c4f
+246	320	6913350542661903	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-configure	fcd269a4ae71b7d3
+246	320	6913350542661903	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-configure	fcd269a4ae71b7d3
+320	393	6913350543389949	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-build	a10c9b89a47c126b
+320	393	6913350543389949	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-build	a10c9b89a47c126b
+393	458	6913350544058150	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-install	326b746dbdf5c62
+393	458	6913350544058150	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-install	326b746dbdf5c62
+459	524	6913350544716408	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-test	9c9d20b1cbbe6f87
+459	524	6913350544716408	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-test	9c9d20b1cbbe6f87
+524	614	6913350545604026	CMakeFiles/openssl_src-populate-complete	9a449abcdcc49684
+524	614	6913350545604026	openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-done	9a449abcdcc49684
+524	614	6913350545604026	C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/openssl_src-populate-prefix/src/openssl_src-populate-stamp/openssl_src-populate-done	9a449abcdcc49684

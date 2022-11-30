@@ -1,0 +1,18 @@
+# ninja log v5
+13	578	6914763532445155	CMakeFiles/blockchain.dir/sha256.cpp.obj	4fea04bae881fd07
+2	2489	6913567450039350	CMakeFiles/blockchain.dir/transaction.cpp.obj	4c882de540b95190
+4	3245	6914763559139788	CMakeFiles/blockchain.dir/main.cpp.obj	9f43c3e3652ed026
+3675	4074	6914763567390559	blockchain.exe	40553cafee84601a
+5	565	6914776387239306	build.ninja	b11d189c19d56496
+10	3675	6914763563440763	CMakeFiles/blockchain.dir/node.cpp.obj	dc7b5c38a189b306
+12	3160	6914751283957814	CMakeFiles/blockchain.dir/block.cpp.obj	322efce638911aa1
+2	241	6914776387239306	build.ninja	b11d189c19d56496
+7	2155	6914776409662800	CMakeFiles/blockchain.dir/main.cpp.obj	9f43c3e3652ed026
+4	2459	6914776412686844	CMakeFiles/blockchain.dir/node.cpp.obj	dc7b5c38a189b306
+2460	2818	6914776416232259	blockchain.exe	40553cafee84601a
+9	5478	6914867588613754	CMakeFiles/blockchain.dir/node.cpp.obj	dc7b5c38a189b306
+29	5489	6914867588787313	CMakeFiles/blockchain.dir/main.cpp.obj	9f43c3e3652ed026
+5490	6346	6914867597204124	blockchain.exe	40553cafee84601a
+10	7402	6914884562317306	CMakeFiles/blockchain.dir/node.cpp.obj	dc7b5c38a189b306
+17	7615	6914884564382609	CMakeFiles/blockchain.dir/main.cpp.obj	9f43c3e3652ed026
+7616	8953	6914884577756121	blockchain.exe	40553cafee84601a

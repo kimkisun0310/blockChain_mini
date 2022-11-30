@@ -1,0 +1,3 @@
+C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/CMakeFiles/openssl_src-populate.dir
+C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/kisun/CLionProjects/blockchain/cmake-build-debug/_deps/openssl_src-subbuild/CMakeFiles/rebuild_cache.dir
